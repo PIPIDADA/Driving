@@ -12,4 +12,6 @@ elif country == 'American':
     else:
         print("Sorry, you can't drive.") 
         print("To ride a bike is good for you!")
+else:
+    print('目前只有臺灣及美國(American)可使用')
 
